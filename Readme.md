@@ -39,7 +39,8 @@ Email: nidaeman0987@gmail.com
 This project is for **educational purposes only**. Original design credit goes to **Brad Traversy**.
 
 ## Links 
- Github:
+ Github: https://github.com/nidaaeman1122/Nida-Buildable-Task5-ModernWebsite.git
+ 
  Netlify:
  
 
