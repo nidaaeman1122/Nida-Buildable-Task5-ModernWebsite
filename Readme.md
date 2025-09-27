@@ -41,6 +41,6 @@ This project is for **educational purposes only**. Original design credit goes t
 ## Links 
  Github: https://github.com/nidaaeman1122/Nida-Buildable-Task5-ModernWebsite.git
  
- Netlify:
- 
+ Netlify: https://buildablestask5.netlify.app/
+
 
